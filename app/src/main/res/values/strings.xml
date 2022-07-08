@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">imcapplication</string>
+    <string name="hint_peso">ex 61.3(kgs)</string>
+    <string name="hint_altura">ex 162(cms)</string>
+</resources>
